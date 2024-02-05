@@ -151,6 +151,7 @@ public class InicializarBD {
                     u.setEmail(rs.getString("email"));
                     u.setUser(rs.getString("user"));
                     u.setPassword(rs.getString("password"));
+                    u.setSaldo(rs.getFloat("saldo"));
                     u.setCreationDate(rs.getDate("creation_date"));
                     u.setModificationDate(rs.getDate("modification_date"));
                 }
@@ -163,7 +164,6 @@ public class InicializarBD {
 
     public ArrayList<Objeto> obtenerObjetosUsuario(int userId) {
         String sql = "SELECT * FROM OBJETOS WHERE userId  = " + userId;
-        System.out.println(sql);
         ArrayList<Objeto> objetoList = null;
         if (conectar()) {
             try {
@@ -171,8 +171,8 @@ public class InicializarBD {
                 ResultSet rs = pst.executeQuery();
                 objetoList = new ArrayList<>();
 
-                while (rs.next()){
-                    Objeto o = new Objeto(rs.getInt("id"),rs.getString("nombre"),rs.getFloat("valor"),rs.getInt("userId"));
+                while (rs.next()) {
+                    Objeto o = new Objeto(rs.getInt("id"), rs.getString("nombre"), rs.getFloat("valor"), rs.getInt("userId"));
                     objetoList.add(o);
                 }
 
@@ -181,5 +181,63 @@ public class InicializarBD {
             }
         }
         return objetoList;
+    }
+
+    public ArrayList<Usuario> obtenerUsuarios() {
+        String sql = "SELECT * FROM usuarios";
+        ArrayList<Usuario> usuarios = null;
+        if (conectar()) {
+            try {
+                PreparedStatement pst = conexion.prepareStatement(sql);
+                ResultSet rs = pst.executeQuery();
+                usuarios = new ArrayList<>();
+
+                while (rs.next()) {
+                    Usuario u = new Usuario(rs.getString("full_name"), rs.getString("user"), rs.getString("email"), rs.getString("password"), rs.getFloat("saldo"));
+                    u.setId(rs.getInt("id"));
+                    usuarios.add(u);
+                }
+            } catch (SQLException e) {
+                throw new RuntimeException(e);
+            }
+        }
+        return usuarios;
+    }
+
+    public float comprarObjeto(int idArticulo, int idComprador, float saldoComprador) {
+        float cantidadGastada = -1;
+        boolean puedeComprar = false;
+        float precioArticulo = 0;
+        String sqlObjeto = "SELECT valor FROM objetos WHERE id=" + idArticulo;
+        if (conectar()) {
+            try {
+                PreparedStatement pst = conexion.prepareStatement(sqlObjeto);
+                ResultSet rs = pst.executeQuery();
+                if (rs.next()) {
+                    precioArticulo = rs.getFloat("valor");
+                    puedeComprar = precioArticulo < saldoComprador;
+                }
+            } catch (SQLException e) {
+                throw new RuntimeException(e);
+            }
+        }
+
+        if (puedeComprar) {
+            String sql = "UPDATE objetos SET userId = ? WHERE id = ?";
+            if (conectar()) {
+                try {
+                    PreparedStatement pst = conexion.prepareStatement(sql);
+                    pst.setInt(1,idComprador);
+                    pst.setInt(2,idArticulo);
+                    System.out.println(pst);
+                    pst.executeUpdate();
+                    pst.close();
+                    cantidadGastada = precioArticulo;
+                } catch (SQLException e) {
+                    throw new RuntimeException(e);
+                }
+            }
+        }
+        return cantidadGastada;
     }
 }

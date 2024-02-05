@@ -21,40 +21,40 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <#--
+<#--                    &lt;#&ndash;-->
                     <#list usuarios as usuario>
-                    <tr style="background-color: ${articulo_index % 2 == 0 ? '#f9f9f9' : '#ffffff'};">
+                    <tr <#if (usuario_index % 2 == 0)>style="background-color: #f9f9f9;"<#else>style="background-color: #ffffff;"</#if>>
                         <td>${usuario.id}</td>
                         <td>${usuario.fullName}</td>
                         <td>${usuario.saldo}</td>
                         <td><a href="/articulos/${usuario.id}">COMPRARLE ALGO</a></td>
                     </tr>
                     </#list>
-                    -->
-                    <tr style="background-color: #f9f9f9;">
-                        <td>ID</td>
-                        <td>Nombre Apellido1 Apellido2</td>
-                        <td>1234</td>
-                        <td><a href="/articulos/1">COMPRARLE ALGO</a></td>
-                    </tr>
-                    <tr style="background-color: #ffffff;">
-                        <td>ID</td>
-                        <td>Nombre Apellido1 Apellido2</td>
-                        <td>1234</td>
-                        <td><a href="/articulos/1">COMPRARLE ALGO</a></td>
-                    </tr>
-                    <tr style="background-color: #f9f9f9;">
-                        <td>ID</td>
-                        <td>Nombre Apellido1 Apellido2</td>
-                        <td>1234</td>
-                        <td><a href="/articulos/1">COMPRARLE ALGO</a></td>
-                    </tr>
-                    <tr style="background-color: #ffffff;">
-                        <td>ID</td>
-                        <td>Nombre Apellido1 Apellido2</td>
-                        <td>1234</td>
-                        <td><a href="/articulos/1">COMPRARLE ALGO</a></td>
-                    </tr>
+<#--                    &ndash;&gt;-->
+<#--                    <tr style="background-color: #f9f9f9;">-->
+<#--                        <td>ID</td>-->
+<#--                        <td>Nombre Apellido1 Apellido2</td>-->
+<#--                        <td>1234</td>-->
+<#--                        <td><a href="/articulos/1">COMPRARLE ALGO</a></td>-->
+<#--                    </tr>-->
+<#--                    <tr style="background-color: #ffffff;">-->
+<#--                        <td>ID</td>-->
+<#--                        <td>Nombre Apellido1 Apellido2</td>-->
+<#--                        <td>1234</td>-->
+<#--                        <td><a href="/articulos/1">COMPRARLE ALGO</a></td>-->
+<#--                    </tr>-->
+<#--                    <tr style="background-color: #f9f9f9;">-->
+<#--                        <td>ID</td>-->
+<#--                        <td>Nombre Apellido1 Apellido2</td>-->
+<#--                        <td>1234</td>-->
+<#--                        <td><a href="/articulos/1">COMPRARLE ALGO</a></td>-->
+<#--                    </tr>-->
+<#--                    <tr style="background-color: #ffffff;">-->
+<#--                        <td>ID</td>-->
+<#--                        <td>Nombre Apellido1 Apellido2</td>-->
+<#--                        <td>1234</td>-->
+<#--                        <td><a href="/articulos/1">COMPRARLE ALGO</a></td>-->
+<#--                    </tr>-->
                 </tbody>
             </table>
 

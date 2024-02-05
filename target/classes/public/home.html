@@ -26,5 +26,12 @@
 
     <!-- Enlace a los scripts de Bootstrap -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.7.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        var referringUrl = document.referrer;
+
+        if (referringUrl.indexOf('/articulos') !== -1) {
+            alert('Compra exitosa!');
+        }
+    </script>
     </body>
 </html>

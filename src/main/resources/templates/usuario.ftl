@@ -8,6 +8,26 @@
 </head>
 <body>
 
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="/home.html"><img src="/img/logo.webp" height="128"></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/home.html">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/usuarios">Usuarios</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
 <div class="container mt-5">
     <h2>Información de Usuario</h2>
 
@@ -38,18 +58,15 @@
     <div class="card mt-3">
         <div class="card-body">
             <h5 class="card-title">Saldo</h5>
-            <#-- <p class="card-text">${usuario.saldo}</p> -->
-            <p class="card-text">Saldo</p>
+            <p class="card-text">${usuario.saldo}</p>
         </div>
     </div>
-    <!-- ESTE ENLACE IGUAL ES INUTIL -->
     <a href="/articulos" class="btn btn-success btn-lg  mt-3">Articulos del usuario</a>
 
     <div class="card mt-3">
         <div class="card-body">
             <h5 class="card-title">Fecha de Creación</h5>
-             <p class="card-text">${usuario.creationDate}</p>
-<#--            <p class="card-text">02/02/2022</p>-->
+            <p class="card-text">${usuario.creationDate}</p>
         </div>
     </div>
 

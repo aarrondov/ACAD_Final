@@ -1284,3 +1284,1527 @@ FTL stack trace ("~" means nesting-related):
 20:48:45.856 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
 20:48:45.886 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@fc6bd2b{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
 20:48:45.886 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @790ms
+16:27:34.639 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+16:27:34.645 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+16:27:34.663 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+16:27:34.827 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @857ms to org.eclipse.jetty.util.log.Slf4jLog
+16:27:34.879 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+16:27:34.879 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+16:27:34.882 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+16:27:34.913 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+16:27:34.913 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+16:27:34.915 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+16:27:34.960 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@1168871a{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+16:27:34.961 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @991ms
+16:27:44.610 [qtp1733696523-37] INFO  spark.http.matching.MatcherFilter - The requested route [/favicon.ico] has not been mapped in Spark for Accept: [image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8]
+16:28:23.680 [qtp1733696523-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+15:24:12.679 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+15:24:12.685 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+15:24:12.703 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+15:24:12.858 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @810ms to org.eclipse.jetty.util.log.Slf4jLog
+15:24:12.903 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+15:24:12.903 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+15:24:12.905 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+15:24:12.935 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+15:24:12.935 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+15:24:12.937 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+15:24:12.980 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@1168871a{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+15:24:12.980 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @932ms
+15:24:34.726 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+15:24:34.731 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+15:24:34.748 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+15:24:34.972 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @769ms to org.eclipse.jetty.util.log.Slf4jLog
+15:24:35.009 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+15:24:35.009 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+15:24:35.011 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+15:24:35.026 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+15:24:35.026 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+15:24:35.028 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+15:24:35.058 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@fc6bd2b{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+15:24:35.058 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @858ms
+15:24:42.901 [qtp1387067353-35] INFO  spark.http.matching.MatcherFilter - The requested route [/favicon.ico] has not been mapped in Spark for Accept: [image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8]
+15:25:21.909 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+15:25:21.913 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+15:25:21.930 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+15:25:22.133 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @708ms to org.eclipse.jetty.util.log.Slf4jLog
+15:25:22.169 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+15:25:22.169 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+15:25:22.171 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+15:25:22.184 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+15:25:22.185 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+15:25:22.186 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+15:25:22.217 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@27499006{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+15:25:22.217 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @795ms
+15:26:30.409 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+15:26:30.415 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+15:26:30.433 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+15:26:30.649 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @745ms to org.eclipse.jetty.util.log.Slf4jLog
+15:26:30.687 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+15:26:30.687 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+15:26:30.689 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+15:26:30.702 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+15:26:30.703 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+15:26:30.704 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+15:26:30.734 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@fc6bd2b{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+15:26:30.734 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @833ms
+15:27:22.525 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+15:27:22.530 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+15:27:22.547 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+15:27:22.748 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @731ms to org.eclipse.jetty.util.log.Slf4jLog
+15:27:22.783 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+15:27:22.783 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+15:27:22.785 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+15:27:22.799 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+15:27:22.799 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+15:27:22.801 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+15:27:22.831 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@fc6bd2b{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+15:27:22.831 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @817ms
+15:27:24.767 [qtp1387067353-44] ERROR spark.http.matching.GeneralError - 
+java.lang.NullPointerException: Cannot invoke "com.masanz.ut2.ejercicio5.dto.Usuario.getId()" because "com.masanz.ut2.ejercicio5.ServerMain.usuarioAutenticado" is null
+	at com.masanz.ut2.ejercicio5.ServerMain.lambda$main$2(ServerMain.java:64) ~[classes/:?]
+	at spark.TemplateViewRouteImpl$1.handle(TemplateViewRouteImpl.java:66) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+15:28:30.737 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+15:28:30.741 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+15:28:30.757 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+15:28:30.973 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @775ms to org.eclipse.jetty.util.log.Slf4jLog
+15:28:31.008 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+15:28:31.008 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+15:28:31.010 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+15:28:31.025 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+15:28:31.025 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+15:28:31.026 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+15:28:31.055 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@fc6bd2b{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+15:28:31.055 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @859ms
+15:28:46.758 [qtp1387067353-44] INFO  spark.http.matching.MatcherFilter - The requested route [/comprar/:1/23] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+16:03:45.303 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+16:03:45.307 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+16:03:45.322 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+16:03:45.523 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @704ms to org.eclipse.jetty.util.log.Slf4jLog
+16:03:45.558 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+16:03:45.558 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+16:03:45.560 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+16:03:45.573 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+16:03:45.574 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+16:03:45.575 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+16:03:45.603 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@6b7541fa{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+16:03:45.604 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @787ms
+16:03:59.087 [qtp1585911292-44] ERROR spark.http.matching.GeneralError - 
+java.lang.RuntimeException: java.sql.SQLException: Column 'user' not found.
+	at com.masanz.ut2.ejercicio5.init.InicializarBD.obtenerUsuarios(InicializarBD.java:200) ~[classes/:?]
+	at com.masanz.ut2.ejercicio5.ServerMain.lambda$main$4(ServerMain.java:85) ~[classes/:?]
+	at spark.TemplateViewRouteImpl$1.handle(TemplateViewRouteImpl.java:66) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.sql.SQLException: Column 'user' not found.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.result.ResultSetImpl.findColumn(ResultSetImpl.java:575) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.result.ResultSetImpl.getString(ResultSetImpl.java:882) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.masanz.ut2.ejercicio5.init.InicializarBD.obtenerUsuarios(InicializarBD.java:196) ~[classes/:?]
+	... 24 more
+16:05:10.164 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+16:05:10.169 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+16:05:10.187 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+16:05:10.399 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @743ms to org.eclipse.jetty.util.log.Slf4jLog
+16:05:10.434 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+16:05:10.434 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+16:05:10.436 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+16:05:10.450 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+16:05:10.450 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+16:05:10.451 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+16:05:10.478 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@5e43d903{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+16:05:10.479 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @825ms
+16:06:01.067 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+16:06:01.071 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+16:06:01.087 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+16:06:01.297 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @716ms to org.eclipse.jetty.util.log.Slf4jLog
+16:06:01.331 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+16:06:01.331 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+16:06:01.333 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+16:06:01.347 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+16:06:01.348 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+16:06:01.349 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+16:06:01.376 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@5e43d903{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+16:06:01.376 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @797ms
+16:07:18.467 [qtp497663317-45] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+16:07:22.418 [qtp497663317-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+16:17:48.138 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+16:17:48.144 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+16:17:48.161 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+16:17:48.358 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @712ms to org.eclipse.jetty.util.log.Slf4jLog
+16:17:48.392 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+16:17:48.392 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+16:17:48.394 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+16:17:48.408 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+16:17:48.408 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+16:17:48.409 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+16:17:48.438 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@5e43d903{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+16:17:48.438 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @794ms
+16:18:05.532 [qtp497663317-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+16:23:38.625 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+16:23:38.631 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+16:23:38.650 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+16:23:38.852 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @747ms to org.eclipse.jetty.util.log.Slf4jLog
+16:23:38.889 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+16:23:38.890 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+16:23:38.891 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+16:23:38.905 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+16:23:38.905 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+16:23:38.907 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+16:23:38.936 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@5e43d903{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+16:23:38.936 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @834ms
+16:23:48.544 [qtp497663317-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+16:23:52.019 [qtp497663317-41] INFO  spark.http.matching.MatcherFilter - The requested route [/comprar/:1/23] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+16:23:59.448 [qtp497663317-44] INFO  spark.http.matching.MatcherFilter - The requested route [/comprar/:1/23] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+16:28:19.562 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+16:28:19.567 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+16:28:19.591 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+16:28:19.804 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @739ms to org.eclipse.jetty.util.log.Slf4jLog
+16:28:19.838 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+16:28:19.839 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+16:28:19.841 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+16:28:19.855 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+16:28:19.855 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+16:28:19.856 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+16:28:19.885 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@5e43d903{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+16:28:19.885 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @823ms
+16:28:20.968 [qtp497663317-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 25
+16:28:24.005 [qtp497663317-38] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+16:28:42.266 [qtp497663317-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+16:28:47.820 [qtp497663317-37] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+16:28:54.319 [qtp497663317-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+16:54:53.790 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+16:54:53.793 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+16:54:53.809 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+16:54:54.038 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @737ms to org.eclipse.jetty.util.log.Slf4jLog
+16:54:54.073 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+16:54:54.074 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+16:54:54.075 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+16:54:54.090 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+16:54:54.090 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+16:54:54.091 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+16:54:54.121 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@4a27a05d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+16:54:54.121 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @823ms
+16:55:09.467 [qtp1153640321-38] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+16:55:11.411 [qtp1153640321-44] INFO  spark.http.matching.MatcherFilter - The requested route [/comprar/:1/23] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+16:55:55.737 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+16:55:55.741 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+16:55:55.756 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+16:55:55.950 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @712ms to org.eclipse.jetty.util.log.Slf4jLog
+16:55:55.985 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+16:55:55.985 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+16:55:55.987 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+16:55:56.001 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+16:55:56.001 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+16:55:56.002 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+16:55:56.031 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@565e3a5f{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+16:55:56.031 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @795ms
+16:56:09.256 [qtp2080998851-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+16:56:10.703 [qtp2080998851-41] ERROR spark.http.matching.GeneralError - 
+java.lang.NumberFormatException: For input string: ":2"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at com.masanz.ut2.ejercicio5.ServerMain.lambda$main$6(ServerMain.java:100) ~[classes/:?]
+	at spark.TemplateViewRouteImpl$1.handle(TemplateViewRouteImpl.java:66) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+17:31:35.186 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:31:35.193 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:31:35.215 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:31:35.401 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @919ms to org.eclipse.jetty.util.log.Slf4jLog
+17:31:35.448 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:31:35.448 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:31:35.450 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:31:35.484 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:31:35.484 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:31:35.485 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+17:31:35.534 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@b0c5038{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:31:35.535 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @1053ms
+17:31:45.267 [qtp1288084437-37] INFO  spark.http.matching.MatcherFilter - The requested route [/favicon.ico] has not been mapped in Spark for Accept: [image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8]
+17:31:56.905 [qtp1288084437-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+17:32:09.015 [qtp1288084437-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+17:32:16.243 [qtp1288084437-41] ERROR spark.http.matching.GeneralError - 
+java.lang.NumberFormatException: For input string: ":1"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at com.masanz.ut2.ejercicio5.ServerMain.lambda$main$6(ServerMain.java:100) ~[classes/:?]
+	at spark.TemplateViewRouteImpl$1.handle(TemplateViewRouteImpl.java:66) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+17:33:02.823 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:33:02.829 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:33:02.848 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:33:03.058 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @769ms to org.eclipse.jetty.util.log.Slf4jLog
+17:33:03.093 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:33:03.094 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:33:03.095 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:33:03.110 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:33:03.110 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:33:03.111 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+17:33:03.141 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@4a27a05d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:33:03.141 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @855ms
+17:33:17.095 [qtp1153640321-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 24
+17:33:19.393 [qtp1153640321-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+17:33:20.500 [qtp1153640321-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+17:33:20.521 [qtp1153640321-41] ERROR spark.http.matching.GeneralError - 
+java.lang.RuntimeException: java.sql.SQLSyntaxErrorException: Table 'pruebas_acad.articulo' doesn't exist
+	at com.masanz.ut2.ejercicio5.init.InicializarBD.comprarObjeto(InicializarBD.java:221) ~[classes/:?]
+	at com.masanz.ut2.ejercicio5.ServerMain.lambda$main$6(ServerMain.java:103) ~[classes/:?]
+	at spark.TemplateViewRouteImpl$1.handle(TemplateViewRouteImpl.java:66) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.sql.SQLSyntaxErrorException: Table 'pruebas_acad.articulo' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1003) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.masanz.ut2.ejercicio5.init.InicializarBD.comprarObjeto(InicializarBD.java:215) ~[classes/:?]
+	... 24 more
+17:34:23.660 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:34:23.666 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:34:23.682 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:34:23.891 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @768ms to org.eclipse.jetty.util.log.Slf4jLog
+17:34:23.925 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:34:23.925 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:34:23.926 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:34:23.940 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:34:23.940 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:34:23.941 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+17:34:23.970 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@565e3a5f{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:34:23.970 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @850ms
+17:34:37.614 [qtp2080998851-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+17:34:41.013 [qtp2080998851-40] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+17:34:41.022 [qtp2080998851-40] ERROR spark.http.matching.GeneralError - 
+java.lang.RuntimeException: java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+	at com.masanz.ut2.ejercicio5.init.InicializarBD.comprarObjeto(InicializarBD.java:236) ~[classes/:?]
+	at com.masanz.ut2.ejercicio5.ServerMain.lambda$main$6(ServerMain.java:103) ~[classes/:?]
+	at spark.TemplateViewRouteImpl$1.handle(TemplateViewRouteImpl.java:66) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.StatementImpl.checkForDml(StatementImpl.java:365) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:962) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.masanz.ut2.ejercicio5.init.InicializarBD.comprarObjeto(InicializarBD.java:230) ~[classes/:?]
+	... 24 more
+17:37:04.277 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:37:04.282 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:37:04.299 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:37:04.507 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @723ms to org.eclipse.jetty.util.log.Slf4jLog
+17:37:04.541 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:37:04.541 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:37:04.543 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:37:04.557 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:37:04.557 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:37:04.559 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+17:37:04.592 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@4a27a05d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:37:04.592 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @810ms
+17:38:04.007 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:38:04.012 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:38:04.029 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:38:04.237 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @743ms to org.eclipse.jetty.util.log.Slf4jLog
+17:38:04.272 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:38:04.272 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:38:04.274 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:38:04.286 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:38:04.286 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:38:04.288 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+17:38:04.316 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@4a27a05d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:38:04.316 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @825ms
+17:38:13.145 [qtp1153640321-36] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+17:38:17.299 [qtp1153640321-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+17:38:22.290 [qtp1153640321-44] ERROR spark.http.matching.GeneralError - 
+java.lang.NullPointerException: Cannot invoke "com.masanz.ut2.ejercicio5.dto.Usuario.getId()" because "com.masanz.ut2.ejercicio5.ServerMain.usuarioAutenticado" is null
+	at com.masanz.ut2.ejercicio5.ServerMain.lambda$main$2(ServerMain.java:64) ~[classes/:?]
+	at spark.TemplateViewRouteImpl$1.handle(TemplateViewRouteImpl.java:66) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+17:38:34.916 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:38:34.920 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:38:34.938 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:38:35.152 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @745ms to org.eclipse.jetty.util.log.Slf4jLog
+17:38:35.188 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:38:35.188 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:38:35.190 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:38:35.203 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:38:35.203 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:38:35.205 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+17:38:35.232 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@565e3a5f{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:38:35.232 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @827ms
+17:38:42.027 [qtp2080998851-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+17:38:44.265 [qtp2080998851-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+17:38:44.273 [qtp2080998851-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - 19.99
+17:40:26.008 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:40:26.012 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:40:26.028 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:40:26.222 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @703ms to org.eclipse.jetty.util.log.Slf4jLog
+17:40:26.256 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:40:26.256 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:40:26.258 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:40:26.271 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:40:26.271 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:40:26.273 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+17:40:26.300 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@117319dc{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:40:26.301 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @784ms
+17:40:37.903 [qtp135832228-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+17:40:37.913 [qtp135832228-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por 23 por 19.99€
+17:42:26.490 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:42:26.495 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:42:26.515 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:42:26.724 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @749ms to org.eclipse.jetty.util.log.Slf4jLog
+17:42:26.761 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:42:26.761 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:42:26.763 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:42:26.778 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:42:26.778 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:42:26.780 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+17:42:26.808 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:42:26.808 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @835ms
+17:42:38.068 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+17:42:38.080 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por 23 por 19.99€
+17:42:38.085 [qtp488387909-41] INFO  spark.http.matching.MatcherFilter - The requested route [/home.html%3Cscript%3Ealert('%A1Compra%20exitosa!');%3C/script%3E] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+17:43:18.737 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:43:18.741 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:43:18.757 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:43:18.952 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @709ms to org.eclipse.jetty.util.log.Slf4jLog
+17:43:18.987 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:43:18.987 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:43:18.989 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:43:19.006 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:43:19.007 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:43:19.008 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+17:43:19.041 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:43:19.042 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @801ms
+17:43:33.896 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+17:43:33.907 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por 23 por 19.99€
+17:44:32.023 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:44:32.027 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:44:32.044 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:44:32.262 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @734ms to org.eclipse.jetty.util.log.Slf4jLog
+17:44:32.296 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:44:32.296 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:44:32.298 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:44:32.312 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:44:32.312 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:44:32.314 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+17:44:32.342 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@3c6eec{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:44:32.342 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @817ms
+17:44:42.864 [qtp1944187483-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+17:44:42.874 [qtp1944187483-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por 23 por 19.99€
+17:45:26.500 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:45:26.505 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:45:26.520 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:45:26.725 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @728ms to org.eclipse.jetty.util.log.Slf4jLog
+17:45:26.759 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:45:26.759 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:45:26.761 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:45:26.775 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:45:26.775 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:45:26.776 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+17:45:26.805 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@435c7084{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:45:26.805 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @811ms
+17:45:34.940 [qtp2097577652-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+17:45:34.950 [qtp2097577652-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por 23 por 19.99€
+17:47:25.670 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:47:25.675 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:47:25.692 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:47:25.898 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @721ms to org.eclipse.jetty.util.log.Slf4jLog
+17:47:25.939 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:47:25.939 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:47:25.942 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:47:25.957 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:47:25.958 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:47:25.959 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+17:47:25.989 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@435c7084{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:47:25.989 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @815ms
+17:47:37.166 [qtp2097577652-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+17:47:37.176 [qtp2097577652-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por 23 por 19.99€
+17:48:33.714 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:48:33.717 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:48:33.733 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:48:33.934 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @714ms to org.eclipse.jetty.util.log.Slf4jLog
+17:48:33.970 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:48:33.970 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:48:33.972 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:48:33.987 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:48:33.987 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:48:33.989 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+17:48:34.018 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:48:34.018 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @800ms
+17:48:40.852 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+17:48:40.862 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por 23 por 19.99€
+17:48:57.032 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:48:57.037 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:48:57.054 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:48:57.285 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @755ms to org.eclipse.jetty.util.log.Slf4jLog
+17:48:57.321 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:48:57.321 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:48:57.323 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:48:57.336 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:48:57.336 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:48:57.338 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+17:48:57.369 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@435c7084{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:48:57.369 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @842ms
+17:49:19.409 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+17:49:19.413 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+17:49:19.431 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+17:49:19.629 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @734ms to org.eclipse.jetty.util.log.Slf4jLog
+17:49:19.664 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+17:49:19.665 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+17:49:19.666 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+17:49:19.680 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+17:49:19.680 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+17:49:19.681 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+17:49:19.710 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@435c7084{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+17:49:19.710 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @818ms
+17:49:25.872 [qtp2097577652-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+17:49:25.882 [qtp2097577652-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por 23 por 19.99€
+18:22:23.845 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:22:23.850 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:22:23.872 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:22:24.083 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @829ms to org.eclipse.jetty.util.log.Slf4jLog
+18:22:24.119 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:22:24.119 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:22:24.121 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:22:24.135 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:22:24.135 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:22:24.137 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:22:24.168 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@435c7084{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:22:24.168 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @917ms
+18:22:29.743 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:22:29.747 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:22:29.763 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:22:29.997 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @859ms to org.eclipse.jetty.util.log.Slf4jLog
+18:23:55.443 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:23:55.448 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:23:55.470 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:23:55.670 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @717ms to org.eclipse.jetty.util.log.Slf4jLog
+18:23:55.709 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:23:55.709 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:23:55.711 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:23:55.725 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:23:55.725 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:23:55.726 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+18:23:55.754 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@435c7084{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:23:55.754 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @804ms
+18:24:06.705 [qtp2097577652-36] INFO  spark.http.matching.MatcherFilter - The requested route [/favicon.ico] has not been mapped in Spark for Accept: [image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8]
+18:24:11.213 [qtp2097577652-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:24:11.222 [qtp2097577652-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por 23 por 19.99€
+18:26:30.757 [qtp2097577652-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:26:32.415 [qtp2097577652-40] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:26:47.629 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:26:47.635 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:26:47.651 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:26:47.852 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @853ms to org.eclipse.jetty.util.log.Slf4jLog
+18:26:47.887 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:26:47.887 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:26:47.888 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:26:47.902 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:26:47.902 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:26:47.903 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:26:47.930 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@435c7084{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:26:47.930 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @934ms
+18:26:56.398 [qtp2097577652-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:26:56.408 [qtp2097577652-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por 23 por 19.99€
+18:29:21.736 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:29:21.740 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:29:21.756 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:29:21.973 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @730ms to org.eclipse.jetty.util.log.Slf4jLog
+18:29:22.009 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:29:22.009 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:29:22.011 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:29:22.025 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:29:22.025 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:29:22.027 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:29:22.054 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@2d92ef30{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:29:22.055 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @814ms
+18:29:28.589 [qtp988674764-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:29:28.599 [qtp988674764-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por mia_patel(23) por 19.99€
+18:31:12.940 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:31:12.944 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:31:12.962 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:31:13.168 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @731ms to org.eclipse.jetty.util.log.Slf4jLog
+18:31:13.203 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:31:13.203 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:31:13.205 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:31:13.218 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:31:13.219 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:31:13.220 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+18:31:13.249 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@2d92ef30{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:31:13.249 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @814ms
+18:31:20.886 [qtp988674764-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:32:15.944 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:32:15.948 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:32:15.965 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:32:16.170 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @784ms to org.eclipse.jetty.util.log.Slf4jLog
+18:32:16.210 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:32:16.211 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:32:16.213 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:32:16.228 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:32:16.228 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:32:16.229 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:32:16.258 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@2d92ef30{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:32:16.258 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @875ms
+18:32:17.449 [qtp988674764-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:32:17.500 [qtp988674764-44] ERROR spark.http.matching.GeneralError - 
+java.lang.IllegalArgumentException: freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:
+==> usuario  [in template "usuario.ftl" at line 37, column 37]
+
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${usuario.fullName}  [in template "usuario.ftl" at line 37, column 35]
+----
+	at spark.template.freemarker.FreeMarkerEngine.render(FreeMarkerEngine.java:72) ~[spark-template-freemarker-2.7.1.jar:?]
+	at spark.TemplateViewRouteImpl$1.render(TemplateViewRouteImpl.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.TemplateViewRouteImpl$1.render(TemplateViewRouteImpl.java:58) ~[spark-core-2.9.3.jar:?]
+	at spark.TemplateViewRouteImpl.render(TemplateViewRouteImpl.java:86) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:63) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:
+==> usuario  [in template "usuario.ftl" at line 37, column 37]
+
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${usuario.fullName}  [in template "usuario.ftl" at line 37, column 35]
+----
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.UnexpectedTypeException.newDesciptionBuilder(UnexpectedTypeException.java:80) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.UnexpectedTypeException.<init>(UnexpectedTypeException.java:43) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.NonHashException.<init>(NonHashException.java:49) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Dot._eval(Dot.java:48) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Expression.eval(Expression.java:81) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:96) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:59) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Environment.visit(Environment.java:326) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Environment.visit(Environment.java:332) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Environment.process(Environment.java:305) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.template.Template.process(Template.java:378) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at spark.template.freemarker.FreeMarkerEngine.render(FreeMarkerEngine.java:69) ~[spark-template-freemarker-2.7.1.jar:?]
+	... 20 more
+18:32:23.504 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:32:23.509 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:32:23.526 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:32:23.727 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @731ms to org.eclipse.jetty.util.log.Slf4jLog
+18:32:23.764 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:32:23.764 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:32:23.766 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:32:23.780 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:32:23.780 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:32:23.781 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:32:23.809 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@2d92ef30{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:32:23.809 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @815ms
+18:32:25.699 [qtp988674764-44] ERROR spark.http.matching.GeneralError - 
+java.lang.NullPointerException: Cannot invoke "com.masanz.ut2.ejercicio5.dto.Usuario.getId()" because "com.masanz.ut2.ejercicio5.ServerMain.usuarioAutenticado" is null
+	at com.masanz.ut2.ejercicio5.ServerMain.lambda$main$2(ServerMain.java:65) ~[classes/:?]
+	at spark.TemplateViewRouteImpl$1.handle(TemplateViewRouteImpl.java:66) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+18:32:34.252 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:32:34.259 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:32:34.279 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:32:34.487 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @762ms to org.eclipse.jetty.util.log.Slf4jLog
+18:32:34.522 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:32:34.522 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:32:34.524 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:32:34.537 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:32:34.538 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:32:34.539 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:32:34.565 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@2d92ef30{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:32:34.566 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @843ms
+18:32:36.845 [qtp988674764-35] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:32:40.450 [qtp988674764-35] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:32:42.954 [qtp988674764-35] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:32:45.019 [qtp988674764-35] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:33:12.656 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:33:12.664 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:33:12.685 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:33:12.885 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @723ms to org.eclipse.jetty.util.log.Slf4jLog
+18:33:12.921 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:33:12.921 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:33:12.923 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:33:12.937 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:33:12.938 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:33:12.939 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:33:12.968 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@2d92ef30{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:33:12.968 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @809ms
+18:33:21.451 [qtp988674764-36] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:33:41.569 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:33:41.573 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:33:41.589 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:33:41.802 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @732ms to org.eclipse.jetty.util.log.Slf4jLog
+18:33:41.837 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:33:41.837 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:33:41.839 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:33:41.853 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:33:41.854 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:33:41.855 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:33:41.883 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@565e3a5f{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:33:41.883 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @816ms
+18:33:43.901 [qtp2080998851-44] ERROR spark.http.matching.GeneralError - 
+java.lang.NullPointerException: Cannot invoke "com.masanz.ut2.ejercicio5.dto.Usuario.getId()" because "com.masanz.ut2.ejercicio5.ServerMain.usuarioAutenticado" is null
+	at com.masanz.ut2.ejercicio5.ServerMain.lambda$main$2(ServerMain.java:65) ~[classes/:?]
+	at spark.TemplateViewRouteImpl$1.handle(TemplateViewRouteImpl.java:66) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+18:33:48.978 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:33:48.983 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:33:49.000 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:33:49.204 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @723ms to org.eclipse.jetty.util.log.Slf4jLog
+18:33:49.238 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:33:49.238 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:33:49.240 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:33:49.254 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:33:49.254 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:33:49.255 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:33:49.282 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@2d92ef30{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:33:49.282 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @804ms
+18:33:53.597 [qtp988674764-38] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:34:39.458 [qtp988674764-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:38:59.232 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:38:59.236 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:38:59.252 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:38:59.480 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @737ms to org.eclipse.jetty.util.log.Slf4jLog
+18:38:59.517 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:38:59.517 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:38:59.519 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:38:59.531 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:38:59.531 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:38:59.533 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:38:59.561 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:38:59.561 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @820ms
+18:39:14.829 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:39:15.789 [qtp488387909-38] INFO  spark.http.matching.MatcherFilter - The requested route [/public/home.html] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+18:40:46.364 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:40:46.368 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:40:46.384 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:40:46.594 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @725ms to org.eclipse.jetty.util.log.Slf4jLog
+18:40:46.633 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:40:46.633 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:40:46.635 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:40:46.648 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:40:46.648 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:40:46.650 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+18:40:46.677 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@2d92ef30{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:40:46.677 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @810ms
+18:40:49.094 [qtp988674764-38] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:40:49.174 [qtp988674764-44] ERROR spark.http.matching.GeneralError - 
+java.lang.NumberFormatException: For input string: "logo.webp"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at com.masanz.ut2.ejercicio5.ServerMain.lambda$main$5(ServerMain.java:93) ~[classes/:?]
+	at spark.TemplateViewRouteImpl$1.handle(TemplateViewRouteImpl.java:66) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+18:41:07.197 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:41:07.201 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:41:07.219 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:41:07.419 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @756ms to org.eclipse.jetty.util.log.Slf4jLog
+18:41:07.453 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:41:07.453 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:41:07.455 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:41:07.469 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:41:07.469 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:41:07.472 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:41:07.498 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:41:07.499 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @838ms
+18:41:12.588 [qtp488387909-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:41:12.667 [qtp488387909-44] INFO  spark.http.matching.MatcherFilter - The requested route [/img/logo.webp] has not been mapped in Spark for Accept: [image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8]
+18:41:38.877 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:41:38.881 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:41:38.897 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:41:39.093 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @736ms to org.eclipse.jetty.util.log.Slf4jLog
+18:41:39.128 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:41:39.128 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:41:39.130 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:41:39.144 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:41:39.144 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:41:39.146 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+18:41:39.173 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:41:39.174 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @819ms
+18:41:44.004 [qtp488387909-36] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:41:44.088 [qtp488387909-41] ERROR spark.http.matching.GeneralError - 
+java.lang.NumberFormatException: For input string: "logo.webp"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at com.masanz.ut2.ejercicio5.ServerMain.lambda$main$5(ServerMain.java:93) ~[classes/:?]
+	at spark.TemplateViewRouteImpl$1.handle(TemplateViewRouteImpl.java:66) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+18:42:38.398 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:42:38.403 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:42:38.419 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:42:38.615 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @788ms to org.eclipse.jetty.util.log.Slf4jLog
+18:42:38.650 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:42:38.650 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:42:38.652 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:42:38.665 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:42:38.665 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:42:38.667 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:42:38.694 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:42:38.694 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @870ms
+18:42:39.751 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:42:39.806 [qtp488387909-44] ERROR spark.http.matching.GeneralError - 
+java.lang.IllegalArgumentException: freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:
+==> usuario  [in template "usuario.ftl" at line 37, column 37]
+
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${usuario.fullName}  [in template "usuario.ftl" at line 37, column 35]
+----
+	at spark.template.freemarker.FreeMarkerEngine.render(FreeMarkerEngine.java:72) ~[spark-template-freemarker-2.7.1.jar:?]
+	at spark.TemplateViewRouteImpl$1.render(TemplateViewRouteImpl.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.TemplateViewRouteImpl$1.render(TemplateViewRouteImpl.java:58) ~[spark-core-2.9.3.jar:?]
+	at spark.TemplateViewRouteImpl.render(TemplateViewRouteImpl.java:86) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:63) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:
+==> usuario  [in template "usuario.ftl" at line 37, column 37]
+
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${usuario.fullName}  [in template "usuario.ftl" at line 37, column 35]
+----
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.UnexpectedTypeException.newDesciptionBuilder(UnexpectedTypeException.java:80) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.UnexpectedTypeException.<init>(UnexpectedTypeException.java:43) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.NonHashException.<init>(NonHashException.java:49) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Dot._eval(Dot.java:48) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Expression.eval(Expression.java:81) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:96) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:59) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Environment.visit(Environment.java:326) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Environment.visit(Environment.java:332) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Environment.process(Environment.java:305) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.template.Template.process(Template.java:378) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at spark.template.freemarker.FreeMarkerEngine.render(FreeMarkerEngine.java:69) ~[spark-template-freemarker-2.7.1.jar:?]
+	... 20 more
+18:42:44.413 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:42:44.451 [qtp488387909-41] INFO  spark.http.matching.MatcherFilter - The requested route [/img/logo.webp] has not been mapped in Spark for Accept: [image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8]
+18:43:47.053 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:43:47.058 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:43:47.079 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:43:47.275 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @755ms to org.eclipse.jetty.util.log.Slf4jLog
+18:43:47.311 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:43:47.311 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:43:47.313 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:43:47.327 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:43:47.327 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:43:47.328 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+18:43:47.356 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:43:47.356 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @838ms
+18:43:51.174 [qtp488387909-40] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:43:51.250 [qtp488387909-44] INFO  spark.http.matching.MatcherFilter - The requested route [/usuario/img/logo.webp] has not been mapped in Spark for Accept: [image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8]
+18:44:04.303 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:44:04.308 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:44:04.327 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:44:04.528 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @744ms to org.eclipse.jetty.util.log.Slf4jLog
+18:44:04.562 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:44:04.562 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:44:04.564 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:44:04.578 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:44:04.578 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:44:04.579 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+18:44:04.608 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:44:04.609 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @827ms
+18:44:09.764 [qtp488387909-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:44:09.838 [qtp488387909-44] INFO  spark.http.matching.MatcherFilter - The requested route [/img/logo.webp] has not been mapped in Spark for Accept: [image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8]
+18:44:31.127 [qtp488387909-41] INFO  spark.http.matching.MatcherFilter - The requested route [/img/logo.webp] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+18:44:43.003 [qtp488387909-44] INFO  spark.http.matching.MatcherFilter - The requested route [/resources/img/logo.webp] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+18:44:54.943 [qtp488387909-41] INFO  spark.http.matching.MatcherFilter - The requested route [/img/logo.webp] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+18:45:08.897 [qtp488387909-44] INFO  spark.http.matching.MatcherFilter - The requested route [/public.html] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+18:45:17.095 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:45:17.100 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:45:17.117 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:45:17.319 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @813ms to org.eclipse.jetty.util.log.Slf4jLog
+18:45:17.356 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:45:17.356 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:45:17.358 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:45:17.372 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:45:17.372 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:45:17.374 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+18:45:17.403 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:45:17.403 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @899ms
+18:45:19.860 [qtp488387909-44] INFO  spark.http.matching.MatcherFilter - The requested route [/public.html] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+18:45:20.306 [qtp488387909-35] INFO  spark.http.matching.MatcherFilter - The requested route [/public.html] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+18:45:33.070 [qtp488387909-36] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:45:33.103 [qtp488387909-44] INFO  spark.http.matching.MatcherFilter - The requested route [/img/logo.webp] has not been mapped in Spark for Accept: [image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8]
+18:45:44.832 [qtp488387909-36] INFO  spark.http.matching.MatcherFilter - The requested route [/img] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+18:45:48.632 [qtp488387909-44] INFO  spark.http.matching.MatcherFilter - The requested route [/resources] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+18:48:01.424 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:48:01.428 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:48:01.444 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:48:01.642 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @704ms to org.eclipse.jetty.util.log.Slf4jLog
+18:48:01.678 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:48:01.678 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:48:01.680 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:48:01.694 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:48:01.694 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:48:01.696 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+18:48:01.724 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:48:01.724 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @789ms
+18:48:07.509 [qtp488387909-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:48:07.589 [qtp488387909-44] INFO  spark.http.matching.MatcherFilter - The requested route [/img/logo.webp] has not been mapped in Spark for Accept: [image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8]
+18:48:22.419 [qtp488387909-41] INFO  spark.http.matching.MatcherFilter - The requested route [/img/logo.webp] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+18:49:22.651 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:49:22.655 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:49:22.673 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:49:22.886 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @781ms to org.eclipse.jetty.util.log.Slf4jLog
+18:49:22.922 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:49:22.922 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:49:22.924 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:49:22.938 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:49:22.938 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:49:22.940 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+18:49:22.968 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@68dc617a{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:49:22.969 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @866ms
+18:49:30.004 [qtp1381216970-38] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:49:30.084 [qtp1381216970-44] INFO  spark.http.matching.MatcherFilter - The requested route [/public/img/logo.webp] has not been mapped in Spark for Accept: [image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8]
+18:49:43.881 [qtp1381216970-38] INFO  spark.http.matching.MatcherFilter - The requested route [/public/img/logo.webp] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+18:50:26.771 [qtp1381216970-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:50:26.784 [qtp1381216970-38] INFO  spark.http.matching.MatcherFilter - The requested route [/public/img/logo.webp] has not been mapped in Spark for Accept: [image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8]
+18:50:46.265 [qtp1381216970-44] INFO  spark.http.matching.MatcherFilter - The requested route [/public/img/logo.webp] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7]
+18:51:25.869 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:51:25.873 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:51:25.892 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:51:26.112 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @782ms to org.eclipse.jetty.util.log.Slf4jLog
+18:51:26.148 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:51:26.148 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:51:26.150 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:51:26.163 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:51:26.163 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:51:26.165 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:51:26.196 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:51:26.196 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @869ms
+18:51:29.685 [qtp488387909-37] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:52:29.722 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:52:29.727 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:52:29.746 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:52:29.960 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @720ms to org.eclipse.jetty.util.log.Slf4jLog
+18:52:29.996 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:52:29.996 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:52:29.998 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:52:30.012 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:52:30.012 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:52:30.014 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+18:52:30.043 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:52:30.043 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @806ms
+18:52:33.323 [qtp488387909-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:52:49.420 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:52:49.424 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:52:49.441 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:52:49.640 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @740ms to org.eclipse.jetty.util.log.Slf4jLog
+18:52:49.676 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:52:49.676 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:52:49.678 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:52:49.691 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:52:49.692 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:52:49.693 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:52:49.721 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:52:49.721 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @824ms
+18:52:54.019 [qtp488387909-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:53:03.929 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:53:03.933 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:53:03.950 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:53:04.162 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @736ms to org.eclipse.jetty.util.log.Slf4jLog
+18:53:04.199 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:53:04.199 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:53:04.201 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:53:04.215 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:53:04.215 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:53:04.217 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:53:04.244 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:53:04.244 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @821ms
+18:53:07.773 [qtp488387909-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:54:03.576 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:54:03.581 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:54:03.598 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:54:03.807 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @713ms to org.eclipse.jetty.util.log.Slf4jLog
+18:54:03.844 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:54:03.844 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:54:03.847 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:54:03.862 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:54:03.862 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:54:03.864 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+18:54:03.890 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:54:03.891 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @799ms
+18:54:07.035 [qtp488387909-39] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:54:15.889 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+18:54:17.197 [qtp488387909-39] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:54:17.207 [qtp488387909-39] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por mia_patel(23) por 19.99€
+18:54:20.628 [qtp488387909-39] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:54:31.948 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:54:39.124 [qtp488387909-36] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:54:48.293 [qtp488387909-47] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:54:58.591 [qtp488387909-38] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:55:22.752 [qtp488387909-44] ERROR spark.http.matching.GeneralError - 
+java.lang.RuntimeException: com.mysql.cj.jdbc.exceptions.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction
+	at com.masanz.ut2.ejercicio5.init.InicializarBD.comprarObjeto(InicializarBD.java:233) ~[classes/:?]
+	at com.masanz.ut2.ejercicio5.ServerMain.lambda$main$6(ServerMain.java:104) ~[classes/:?]
+	at spark.TemplateViewRouteImpl$1.handle(TemplateViewRouteImpl.java:66) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: com.mysql.cj.jdbc.exceptions.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:123) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.masanz.ut2.ejercicio5.init.InicializarBD.comprarObjeto(InicializarBD.java:230) ~[classes/:?]
+	... 24 more
+18:55:27.331 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:55:27.336 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:55:27.358 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:55:27.580 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @810ms to org.eclipse.jetty.util.log.Slf4jLog
+18:55:27.622 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:55:27.622 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:55:27.624 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:55:27.638 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:55:27.638 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:55:27.640 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+18:55:27.669 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:55:27.669 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @901ms
+18:55:40.486 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:55:42.750 [qtp488387909-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:55:42.762 [qtp488387909-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por mia_patel(23) por 19.99€
+18:55:58.562 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO ARTICULOS DEL USUARIO CON ID: 23
+18:55:59.942 [qtp488387909-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:56:07.206 [qtp488387909-35] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:56:09.333 [qtp488387909-36] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:56:13.325 [qtp488387909-37] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 2
+18:56:13.332 [qtp488387909-37] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por mia_patel(23) por 29.95€
+18:56:38.279 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:56:38.284 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:56:38.301 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:56:38.514 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @1160ms to org.eclipse.jetty.util.log.Slf4jLog
+18:56:38.557 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:56:38.558 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:56:38.560 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:56:38.574 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:56:38.574 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:56:38.576 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+18:56:38.610 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@a9029c5{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:56:38.611 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @1259ms
+18:56:39.353 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:56:39.357 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:56:39.376 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:56:39.587 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @778ms to org.eclipse.jetty.util.log.Slf4jLog
+18:56:39.625 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:56:39.625 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:56:39.627 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:56:39.642 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:56:39.642 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:56:39.643 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:56:39.673 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:56:39.673 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @866ms
+18:56:40.536 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:56:40.541 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:56:40.562 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:56:40.802 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @890ms to org.eclipse.jetty.util.log.Slf4jLog
+18:56:40.844 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:56:40.844 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:56:40.846 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:56:40.862 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:56:40.862 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:56:40.864 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:56:40.870 [Thread-0] ERROR spark.Spark - ignite failed
+java.io.IOException: Failed to bind to /0.0.0.0:8080
+	at org.eclipse.jetty.server.ServerConnector.openAcceptChannel(ServerConnector.java:349) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.ServerConnector.open(ServerConnector.java:310) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.AbstractNetworkConnector.doStart(AbstractNetworkConnector.java:80) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.ServerConnector.doStart(ServerConnector.java:234) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.doStart(Server.java:386) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at spark.embeddedserver.jetty.EmbeddedJettyServer.ignite(EmbeddedJettyServer.java:149) ~[spark-core-2.9.3.jar:?]
+	at spark.Service.lambda$init$2(Service.java:632) ~[spark-core-2.9.3.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at sun.nio.ch.Net.bind(Net.java:565) ~[?:?]
+	at sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:344) ~[?:?]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:301) ~[?:?]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:89) ~[?:?]
+	at org.eclipse.jetty.server.ServerConnector.openAcceptChannel(ServerConnector.java:345) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	... 9 more
+18:56:44.675 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+18:56:44.681 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+18:56:44.697 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+18:56:44.908 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @723ms to org.eclipse.jetty.util.log.Slf4jLog
+18:56:44.946 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+18:56:44.946 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+18:56:44.948 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+18:56:44.961 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+18:56:44.962 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+18:56:44.963 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+18:56:44.991 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+18:56:44.991 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @809ms
+18:56:54.062 [qtp488387909-36] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:56:56.141 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:56:56.153 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por mia_patel(23) por 19.99€
+18:57:05.254 [qtp488387909-36] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:57:12.525 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 2
+18:57:12.532 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por mia_patel(23) por 29.95€
+18:57:15.630 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:57:20.164 [qtp488387909-36] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 3
+18:57:20.170 [qtp488387909-36] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por mia_patel(23) por 15.5€
+18:57:22.299 [qtp488387909-36] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+18:57:25.637 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+18:58:16.144 [qtp488387909-44] ERROR spark.http.matching.GeneralError - 
+java.lang.RuntimeException: com.mysql.cj.jdbc.exceptions.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction
+	at com.masanz.ut2.ejercicio5.init.InicializarBD.comprarObjeto(InicializarBD.java:233) ~[classes/:?]
+	at com.masanz.ut2.ejercicio5.ServerMain.lambda$main$6(ServerMain.java:104) ~[classes/:?]
+	at spark.TemplateViewRouteImpl$1.handle(TemplateViewRouteImpl.java:66) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: com.mysql.cj.jdbc.exceptions.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:123) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.masanz.ut2.ejercicio5.init.InicializarBD.comprarObjeto(InicializarBD.java:230) ~[classes/:?]
+	... 24 more
+19:03:33.856 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+19:03:33.860 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+19:03:33.875 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+19:03:34.094 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @709ms to org.eclipse.jetty.util.log.Slf4jLog
+19:03:34.133 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+19:03:34.134 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+19:03:34.136 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+19:03:34.153 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+19:03:34.153 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+19:03:34.154 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+19:03:34.184 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@68dc617a{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+19:03:34.184 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @802ms
+19:03:41.063 [qtp1381216970-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+19:03:41.073 [qtp1381216970-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por mia_patel(23) por 19.99€
+19:04:03.989 [qtp1381216970-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 2
+19:04:03.997 [qtp1381216970-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por mia_patel(23) por 29.95€
+19:04:05.492 [qtp1381216970-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+19:04:10.182 [qtp1381216970-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+19:05:01.017 [qtp1381216970-41] ERROR spark.http.matching.GeneralError - 
+java.lang.RuntimeException: com.mysql.cj.jdbc.exceptions.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction
+	at com.masanz.ut2.ejercicio5.init.InicializarBD.comprarObjeto(InicializarBD.java:234) ~[classes/:?]
+	at com.masanz.ut2.ejercicio5.ServerMain.lambda$main$6(ServerMain.java:104) ~[classes/:?]
+	at spark.TemplateViewRouteImpl$1.handle(TemplateViewRouteImpl.java:66) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: com.mysql.cj.jdbc.exceptions.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:123) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1092) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1040) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1347) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:1025) ~[mysql-connector-java-8.0.23.jar:8.0.23]
+	at com.masanz.ut2.ejercicio5.init.InicializarBD.comprarObjeto(InicializarBD.java:230) ~[classes/:?]
+	... 24 more
+19:08:32.385 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+19:08:32.389 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+19:08:32.406 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+19:08:32.623 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @735ms to org.eclipse.jetty.util.log.Slf4jLog
+19:08:32.659 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+19:08:32.659 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+19:08:32.662 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+19:08:32.676 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+19:08:32.676 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+19:08:32.677 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+19:08:32.706 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+19:08:32.706 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @820ms
+19:08:45.350 [qtp488387909-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+19:08:45.360 [qtp488387909-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por mia_patel(23) por 19.99€
+19:12:40.321 [main] INFO  com.masanz.ut2.ejercicio5.ServerMain - PODEIS EMPLEAR ESTE METODO PARA SACAR INFORMACION, COMO SI FUESE UN SOUT
+19:12:40.327 [main] ERROR com.masanz.ut2.ejercicio5.ServerMain - ESTE SIRVE PARA VOLCAR ERRORES, POR EJEMPLO, LAS EXCEPCIONES
+19:12:40.344 [main] INFO  spark.staticfiles.StaticFilesConfiguration - StaticResourceHandler configured with folder = /public
+19:12:40.540 [Thread-0] INFO  org.eclipse.jetty.util.log - Logging initialized @704ms to org.eclipse.jetty.util.log.Slf4jLog
+19:12:40.577 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+19:12:40.577 [Thread-0] INFO  spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:8080
+19:12:40.579 [Thread-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-07-23T17:57:36.812Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 21.0.2+13-58
+19:12:40.592 [Thread-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+19:12:40.592 [Thread-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+19:12:40.593 [Thread-0] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+19:12:40.621 [Thread-0] INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@29b1daf8{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+19:12:40.621 [Thread-0] INFO  org.eclipse.jetty.server.Server - Started @787ms
+19:13:03.204 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+19:13:03.262 [qtp488387909-44] ERROR spark.http.matching.GeneralError - 
+java.lang.IllegalArgumentException: freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:
+==> usuario  [in template "usuario.ftl" at line 37, column 37]
+
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${usuario.fullName}  [in template "usuario.ftl" at line 37, column 35]
+----
+	at spark.template.freemarker.FreeMarkerEngine.render(FreeMarkerEngine.java:72) ~[spark-template-freemarker-2.7.1.jar:?]
+	at spark.TemplateViewRouteImpl$1.render(TemplateViewRouteImpl.java:61) ~[spark-core-2.9.3.jar:?]
+	at spark.TemplateViewRouteImpl$1.render(TemplateViewRouteImpl.java:58) ~[spark-core-2.9.3.jar:?]
+	at spark.TemplateViewRouteImpl.render(TemplateViewRouteImpl.java:86) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.Routes.execute(Routes.java:63) ~[spark-core-2.9.3.jar:?]
+	at spark.http.matching.MatcherFilter.doFilter(MatcherFilter.java:134) ~[spark-core-2.9.3.jar:?]
+	at spark.embeddedserver.jetty.JettyHandler.doHandle(JettyHandler.java:50) ~[spark-core-2.9.3.jar:?]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1584) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: freemarker.core.InvalidReferenceException: The following has evaluated to null or missing:
+==> usuario  [in template "usuario.ftl" at line 37, column 37]
+
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${usuario.fullName}  [in template "usuario.ftl" at line 37, column 35]
+----
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.UnexpectedTypeException.newDesciptionBuilder(UnexpectedTypeException.java:80) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.UnexpectedTypeException.<init>(UnexpectedTypeException.java:43) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.NonHashException.<init>(NonHashException.java:49) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Dot._eval(Dot.java:48) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Expression.eval(Expression.java:81) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:96) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:59) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Environment.visit(Environment.java:326) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Environment.visit(Environment.java:332) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.core.Environment.process(Environment.java:305) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at freemarker.template.Template.process(Template.java:378) ~[freemarker-2.3.26-incubating.jar:2.3.26]
+	at spark.template.freemarker.FreeMarkerEngine.render(FreeMarkerEngine.java:69) ~[spark-template-freemarker-2.7.1.jar:?]
+	... 20 more
+19:13:10.036 [qtp488387909-44] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1
+19:13:13.229 [qtp488387909-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - COMPRANDO ARTICULO ID: 1
+19:13:13.237 [qtp488387909-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - Objeto comprado por mia_patel(23) por 19.99€
+19:13:15.046 [qtp488387909-41] INFO  com.masanz.ut2.ejercicio5.ServerMain - BUSCANDO INFORMACION DEL USUARIO CON ID: 1

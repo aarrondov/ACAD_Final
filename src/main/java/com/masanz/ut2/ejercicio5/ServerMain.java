@@ -9,6 +9,7 @@ import org.apache.logging.log4j.Logger;
 import spark.ModelAndView;
 import spark.template.freemarker.FreeMarkerEngine;
 
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
@@ -64,7 +65,7 @@ public class ServerMain {
             ArrayList<Objeto> articulos = db.obtenerObjetosUsuario(usuarioAutenticado.getId());
             System.out.println(articulos);
             Map<String, Object> model = new HashMap<>();
-            model.put("mostrarIdExtra", false);
+            model.put("mostrarIdExtra", true);
             model.put("usuario", usuarioAutenticado);
             model.put("articulos", articulos);
             return new ModelAndView(model, "articulos.ftl");
@@ -72,17 +73,19 @@ public class ServerMain {
 
         get("/articulos/:id", (request, response) -> {
             int userId = Integer.parseInt(request.params(":id"));
+            ArrayList<Objeto> articulos = db.obtenerObjetosUsuario(userId);
             logger.info("BUSCANDO ARTICULOS DEL USUARIO CON ID: "+userId);
             Map<String, Object> model = new HashMap<>();
-            model.put("mostrarIdExtra", false);
             model.put("mostrarIdExtra", true);
-            //model.put("articulos", articulos);
+            model.put("articulos",articulos);
+            model.put("usuario",usuarioAutenticado);
             return new ModelAndView(model, "articulos.ftl");
         }, freeMarker);
 
         get("/usuarios", (request, response) -> {
             Map<String, Object> model = new HashMap<>();
-            //model.put("usuarios", usuarios);
+            ArrayList<Usuario> usuarios = db.obtenerUsuarios();
+            model.put("usuarios", usuarios);
             return new ModelAndView(model, "usuarios.ftl");
         }, freeMarker);
 
@@ -94,9 +97,13 @@ public class ServerMain {
             return new ModelAndView(model, "usuario.ftl");
         }, freeMarker);
 
-        get("/comprar/:id", (request, response) -> {
+        get("/comprar/:id/:idComprador", (request, response) -> {
             int articuloId = Integer.parseInt(request.params(":id"));
+            int idComprador = Integer.parseInt(request.params(":idComprador"));
             logger.info("COMPRANDO ARTICULO ID: "+articuloId);
+            float compra = db.comprarObjeto(articuloId,usuarioAutenticado.getId(), usuarioAutenticado.getSaldo());
+            usuarioAutenticado.setSaldo(usuarioAutenticado.getSaldo() - compra);
+            logger.info("Objeto comprado por " + usuarioAutenticado.getUser() + "(" + usuarioAutenticado.getId() + ") por " + compra + "€");
             response.redirect("/home.html");
             return null;
         }, freeMarker);

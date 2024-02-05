@@ -19,47 +19,23 @@
                             <th>Nombre</th>
                             <th>Valor</th>
                             <th>Propietario</th>
-                            <!--
+                            <#if mostrarIdExtra>
                                 <th>Enlace compra</th>
-                            -->
+                            </#if>
                         </tr>
                     </thead>
                     <tbody>
                         <#list articulos as articulo>
-                        <tr style='background-color: #f9f9f9;'>
+                        <tr <#if (articulo_index % 2 == 0)>style="background-color: #f9f9f9;"<#else>style="background-color: #ffffff;"</#if>>
                             <td>${articulo.id}</td>
                             <td>${articulo.nombre}</td>
                             <td>${articulo.valor}</td>
                             <td>${articulo.userId}</td>
                             <#if mostrarIdExtra>
-                                <td><a href="/comprar/:${articulo.id}">comprar</a></td>
+                                <td><a href="/comprar/${articulo.id}/${articulo.userId}">Comprar</a></td>
                             </#if>
                         </tr>
                         </#list>
-                        <tr style="background-color: #f9f9f9;">
-                            <td>ID</td>
-                            <td>Nombre</td>
-                            <td>Valor</td>
-                            <td>Propietario</td>
-                        </tr>
-                        <tr style="background-color: #ffffff;">
-                            <td>ID</td>
-                            <td>Nombre</td>
-                            <td>Valor</td>
-                            <td>Propietario</td>
-                        </tr>
-                        <tr style="background-color: #f9f9f9;">
-                            <td>ID</td>
-                            <td>Nombre</td>
-                            <td>Valor</td>
-                            <td>Propietario</td>
-                        </tr>
-                        <tr style="background-color: #ffffff;">
-                            <td>ID</td>
-                            <td>Nombre</td>
-                            <td>Valor</td>
-                            <td>Propietario</td>
-                        </tr>
                     </tbody>
                 </table>
             <#else>

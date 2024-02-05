@@ -10,6 +10,8 @@ public class Usuario {
     private String user;
     private String email;
     private String password;
+    private float saldo;
+
     private Date creationDate;
     private Date modificationDate;
 
@@ -23,12 +25,13 @@ public class Usuario {
         this.modificationDate = new Date();
     }
 
-    public Usuario(String fullName, String user, String email, String password) {
+    public Usuario(String fullName, String user, String email, String password, float saldo) {
         this.id = -1;
         this.fullName = fullName;
         this.user = user;
         this.email = email;
         this.password = password;
+        this.saldo = saldo;
         this.creationDate = new Date();
         this.modificationDate = new Date();
     }
@@ -71,6 +74,14 @@ public class Usuario {
 
     public void setPassword(String password) {
         this.password = password;
+    }
+
+    public float getSaldo() {
+        return saldo;
+    }
+
+    public void setSaldo(float saldo) {
+        this.saldo = saldo;
     }
 
     public Date getCreationDate() {
